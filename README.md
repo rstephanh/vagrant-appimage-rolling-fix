@@ -1,0 +1,1 @@
+# vagrant-appimage-rolling-fix
